@@ -1,8 +1,8 @@
 .button {
-  height: 70px;
-  width: 130px;
+  height: 45px;
+  width: 200px;
   color:white;
-  background-color: rgb(222,222,222);
+  background-color: rgb(210,210,210);
   border-radius:10px;
   display: flex;
   justify-content:center;
